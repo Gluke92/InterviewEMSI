@@ -1,0 +1,30 @@
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 13px;
+}
+
+.label {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 13px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 13px;
+}
+
+.block1 {
+    display: flex;
+    // flex-direction: row;
+    // justify-content: center;
+    // border: 1px solid black;
+    flex: left
+    // grid-template-columns: 1fr 1fr 1fr 1fr;
+    // grid-gap: 10px;
+}
