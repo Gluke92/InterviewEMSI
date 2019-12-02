@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To view on Heroku: go -> https://emsi-interview.herokuapp.com
+
+Otherwise, clone the repo (it's quite large), and run using the normal directions below. 
+
 ## Available Scripts
 
 In the project directory, you can run:
